@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "361215436270",
+    "project_id": "hellofirebase-46280",
+    "storage_bucket": "hellofirebase-46280.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361215436270:android:9e0fada61d5debf2179aff",
+        "android_client_info": {
+          "package_name": "com.example.Practica23"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361215436270-v9rmfa8oj95jhi29a5hnlcee38m9enng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRxDgQdl0QNxUiwbsTx0f1Dd8jSiUgKow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361215436270-v9rmfa8oj95jhi29a5hnlcee38m9enng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
